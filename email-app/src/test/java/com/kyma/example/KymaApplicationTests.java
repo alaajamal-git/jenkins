@@ -8,6 +8,9 @@ class KymaApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
+		System.out.println("context loaded !!!!!!!!!!");
+		
 	}
 
 }
